@@ -1,0 +1,8 @@
+numpy>=2.2,<3
+pandas>=3.0
+music21>=9.9,<10
+transformers>=4.36,<6
+torch>=2.0
+pyarrow>=7.0.0
+streamlit>=1.35
+midi2audio>=0.1.1

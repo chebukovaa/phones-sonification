@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../openvpn3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../openvpn3/build/_deps/googletest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../openvpn3/build/_deps/rapidcheck-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../openvpn3/build/_deps/rapidcheck-src/ext/catch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../openvpn3/build/_deps/rapidcheck-src/ext/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../xxHash" vcs="Git" />
+  </component>
+</project>
