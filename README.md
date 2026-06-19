@@ -16,7 +16,7 @@ cd phones-sonification
 pip install -r requirements.txt
 ```
 
-## Данные
+## Загруза данных
 
 Датасет [Amazon Unlocked Mobile Phones](https://www.kaggle.com/datasets/PromptCloudHQ/amazon-unlocked-phone) доступен на Kaggle.
 
